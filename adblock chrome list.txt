@@ -1,0 +1,44 @@
+@@||my.dewabiz.com/*^$document
+@@||172.16.0.5/*^$document
+@@||intercelestial.com/*^$document
+@@||facebook.com/*^$document
+@@||laksa19.github.io/*^$document
+@@||mail.google.com/$document
+@@||drive.google.com/$document
+@@||www.facebook.com/$document
+@@||www.google.co.id/$document
+@@||torrentwal.com/$document
+@@||192.168.188.253/$document
+@@||geki.tech/$document
+@@||softgateon.herokuapp.com/$document
+@@||driverename.iblogbox.com/$document
+@@||drive.ad4msan.win/$document
+@@||www.tokopedia.com/$document
+@@||filecrypt.cc/$document
+@@||drive.klop.me/$document
+@@||pahe.ph/$document
+@@||intercelestial.com/$document
+@@||shopee.co.id/$document
+@@||sg05.rapidwhm.com:2083/$document
+@@||mm1rza.com/$document
+@@||account.microsoft.com/$document
+@@||my.biznet.id/$document
+@@||ibanking.bankjateng.co.id/$document
+@@||google.com/*^$document
+@@||post.copydev.com/*^$document
+@@||get.masihbelajar.com/*^$document
+@@||perizinan.oss.go.id/*^$document
+@@||linegee.net/*^$document
+@@||billing.supercorridor.co.id/*^$document
+@@||github.com/*^$document
+@@||marketplace.thetanarena.com/*^$document
+@@||calendar.google.com/*^$document
+@@||melonity.gg/*^$document
+www.masfadli.com##DIV[id="ignielAdBlock"]
+www.thewindowsclub.com##DIV[class="f-NJD1R8-1- _2nq-YCkI-1-"]
+drakoric.com##CENTER
+ad4msan.win##DIV[id="tevrzbo-blanket"]
+rarbgway.org##A[id="lkwqg"]
+dunia21.me##DIV[id="overlay-pop"]
+9gag.com##DIV[class="_9r0K-Oum _5kE-6aUK  "]
+9gag.com##DIV[class="fEy1Z2XT "]
