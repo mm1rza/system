@@ -34,6 +34,20 @@
 @@||marketplace.thetanarena.com/*^$document
 @@||calendar.google.com/*^$document
 @@||melonity.gg/*^$document
+@@||192.168.99.253/*^$document
+@@||store.steampowered.com/*^$document
+@@||link.ui.com/*^$document
+@@||web.whatsapp.com/*^$document
+@@||rekrutmenbersama.fhcibumn.id/*^$document
+@@||labkom.co.id/*^$document
+@@||ads.id/*^$document
+@@||blogger.com/*^$document
+@@||merpati-xp.blogspot.com/*^$document
+@@||speedtest.net/*^$document
+@@||zertalious.xyz/*^$document
+@@||twitter.com/*^$document
+@@||instagram.com/*^$document
+@@||appnee.com/*^$document
 www.masfadli.com##DIV[id="ignielAdBlock"]
 www.thewindowsclub.com##DIV[class="f-NJD1R8-1- _2nq-YCkI-1-"]
 drakoric.com##CENTER
