@@ -1,3 +1,18 @@
+# ---------------------------------------------------
+# Miscellaneous
+# ---------------------------------------------------
+
+104.27.207.92     subscene.com
+104.27.207.92	  u.subscene.com
+
+# [idfl.me]
+103.97.141.226 idfl.me www.idfl.me m.idfl.me
+103.97.141.226 idfl.info www.idfl.info m.idfl.info
+
+127.0.0.1 cdn.drivereasy.com
+149.202.196.40 dow0.drivereasy.com
+149.202.196.40 dow1.drivereasy.com
+
 # [Indihome]
 127.0.0.1 a01.uadexchange.com
 127.0.0.1 a02.uadexchange.com
@@ -782,9 +797,3 @@
 151.101.13.140 h.reddit.com
 151.101.13.140 www.h.reddit.com
 
-# ---------------------------------------------------
-# Miscellaneous
-# ---------------------------------------------------
-
-104.27.207.92     subscene.com
-104.27.207.92	  u.subscene.com
