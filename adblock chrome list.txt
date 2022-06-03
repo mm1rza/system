@@ -48,6 +48,22 @@
 @@||twitter.com/*^$document
 @@||instagram.com/*^$document
 @@||appnee.com/*^$document
+@@||mnet.my.id/*^$document
+@@||members.nusa.id/*^$document
+@@||member.yamnet.id/*^$document
+@@||epson.co.id/*^$document
+@@||sdnegerisapaya-my.sharepoint.com/*^$document
+@@||tiktok.com/*^$document
+@@||192.168.55.1/*^$document
+@@||ping.eu/*^$document
+@@||myih.telkom.co.id/*^$document
+@@||app.any.run/*^$document
+@@||archive.org/*^$document
+@@||kurs.dollar.web.id/*^$document
+@@||account.xiaomi.com/*^$document
+@@||twitch.tv/*^$document
+@@||zoom.us/*^$document
+@@||music.youtube.com/*^$document
 www.masfadli.com##DIV[id="ignielAdBlock"]
 www.thewindowsclub.com##DIV[class="f-NJD1R8-1- _2nq-YCkI-1-"]
 drakoric.com##CENTER
