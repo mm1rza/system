@@ -64,6 +64,7 @@
 @@||twitch.tv/*^$document
 @@||zoom.us/*^$document
 @@||music.youtube.com/*^$document
+@@||web.telegram.org/*^$document
 www.masfadli.com##DIV[id="ignielAdBlock"]
 www.thewindowsclub.com##DIV[class="f-NJD1R8-1- _2nq-YCkI-1-"]
 drakoric.com##CENTER
@@ -72,3 +73,4 @@ rarbgway.org##A[id="lkwqg"]
 dunia21.me##DIV[id="overlay-pop"]
 9gag.com##DIV[class="_9r0K-Oum _5kE-6aUK  "]
 9gag.com##DIV[class="fEy1Z2XT "]
+@@||bukadrive-my.sharepoint.com/*^$document
