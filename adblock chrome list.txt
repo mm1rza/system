@@ -13,7 +13,6 @@
 @@||softgateon.herokuapp.com/$document
 @@||driverename.iblogbox.com/$document
 @@||drive.ad4msan.win/$document
-@@||www.tokopedia.com/$document
 @@||filecrypt.cc/$document
 @@||drive.klop.me/$document
 @@||pahe.ph/$document
@@ -63,7 +62,6 @@
 @@||account.xiaomi.com/*^$document
 @@||twitch.tv/*^$document
 @@||zoom.us/*^$document
-@@||music.youtube.com/*^$document
 @@||web.telegram.org/*^$document
 www.masfadli.com##DIV[id="ignielAdBlock"]
 www.thewindowsclub.com##DIV[class="f-NJD1R8-1- _2nq-YCkI-1-"]
@@ -75,3 +73,8 @@ dunia21.me##DIV[id="overlay-pop"]
 9gag.com##DIV[class="fEy1Z2XT "]
 @@||bukadrive-my.sharepoint.com/*^$document
 @@||droplink.co/*^$document
+@@||dds.web.id/*^$document
+@@||portal.biznetgio.com/*^$document
+@@||down.fast-down.com/*^$document
+@@||10.10.2.15/*^$document
+@@||tokopedia.com/*^$document
