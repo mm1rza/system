@@ -74,3 +74,4 @@ dunia21.me##DIV[id="overlay-pop"]
 9gag.com##DIV[class="_9r0K-Oum _5kE-6aUK  "]
 9gag.com##DIV[class="fEy1Z2XT "]
 @@||bukadrive-my.sharepoint.com/*^$document
+@@||droplink.co/*^$document
