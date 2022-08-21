@@ -24,7 +24,6 @@
 @@||my.biznet.id/$document
 @@||ibanking.bankjateng.co.id/$document
 @@||google.com/*^$document
-@@||post.copydev.com/*^$document
 @@||get.masihbelajar.com/*^$document
 @@||perizinan.oss.go.id/*^$document
 @@||linegee.net/*^$document
@@ -78,3 +77,5 @@ dunia21.me##DIV[id="overlay-pop"]
 @@||down.fast-down.com/*^$document
 @@||10.10.2.15/*^$document
 @@||tokopedia.com/*^$document
+@@||post.copydev.com/*^$document
+@@||catatanhariankeong.com/*^$document
