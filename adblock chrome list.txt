@@ -79,3 +79,9 @@ dunia21.me##DIV[id="overlay-pop"]
 @@||tokopedia.com/*^$document
 @@||post.copydev.com/*^$document
 @@||catatanhariankeong.com/*^$document
+@@||blog.menjelajahi.com/*^$document
+@@||tutorial.siberuang.com/*^$document
+@@||traveloka.com/*^$document
+@@||sociabuzz.com/*^$document
+@@||download.pixelexperience.org/*^$document
+@@||go.pintunow.com/*^$document
