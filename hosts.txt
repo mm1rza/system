@@ -1,17 +1,38 @@
-# ---------------------------------------------------
-# Miscellaneous
-# ---------------------------------------------------
+# [subscene]
+104.21.233.137 subscene.com
+104.21.233.137 u.subscene.com
 
-104.27.207.92     subscene.com
-104.27.207.92	  u.subscene.com
-
-# [idfl.me]
+# [Idfl.me]
 103.97.141.226 idfl.me www.idfl.me m.idfl.me
 103.97.141.226 idfl.info www.idfl.info m.idfl.info
 
+# [DriverEasy]
 127.0.0.1 cdn.drivereasy.com
 149.202.196.40 dow0.drivereasy.com
 149.202.196.40 dow1.drivereasy.com
+
+# [IDM]
+127.0.0.1 tonec.com
+127.0.0.1 www.tonec.com
+#127.0.0.1 registeridm.com
+#127.0.0.1 www.registeridm.com
+#127.0.0.1 secure.registeridm.com
+127.0.0.1 internetdownloadmanager.com
+#127.0.0.1 www.internetdownloadmanager.com
+#127.0.0.1 secure.internetdownloadmanager.com
+#127.0.0.1 mirror.internetdownloadmanager.com
+#127.0.0.1 mirror2.internetdownloadmanager.com
+#127.0.0.1 mirror3.internetdownloadmanager.com
+127.0.0.1 star.tonec.com
+
+# [Wondershare]
+127.0.0.1 platform.wondershare.com
+127.0.0.1 support.wondershare.net
+127.0.0.1 www.wondershare.net
+127.0.0.1 www.cbs.wondershare.com
+127.0.0.1 cbs.wondershare.com
+127.0.0.1 www.wondershare.com
+127.0.0.1 activation.cyberlink.com
 
 # [Indihome]
 127.0.0.1 a01.uadexchange.com
@@ -70,31 +91,13 @@
 127.0.0.1 www.x-tags.net
 127.0.0.1 x-tags.net
 
-# [Telkomsel]
-127.0.0.1 ads.telkomsel.com
-
-# [XL]
+# [XL , Indosat Telkomsel]
 127.0.0.1 ibnads.xl.co.id
-
-# [Indosat]
 127.0.0.1 ads.indosatooredoo.com
 127.0.0.1 netsafe.indosatm2.com
+127.0.0.1 ads.telkomsel.com
 
-#idm update
-127.0.0.1 tonec.com
-127.0.0.1 www.tonec.com
-#127.0.0.1 registeridm.com
-#127.0.0.1 www.registeridm.com
-#127.0.0.1 secure.registeridm.com
-127.0.0.1 internetdownloadmanager.com
-#127.0.0.1 www.internetdownloadmanager.com
-#127.0.0.1 secure.internetdownloadmanager.com
-#127.0.0.1 mirror.internetdownloadmanager.com
-#127.0.0.1 mirror2.internetdownloadmanager.com
-#127.0.0.1 mirror3.internetdownloadmanager.com
-127.0.0.1 star.tonec.com
-
-#connectifity
+# [Connectify]
 127.0.0.1 activate.connectify.me
 127.0.0.1 d1.connectify.me
 127.0.0.1 d2.connectify.me
@@ -109,7 +112,7 @@
 127.0.0.1 www.connectify.me
 127.0.0.1 updates.connectify.me
 
-#adobe
+# [Adobe]
 127.0.0.1 ereg.adobe.com
 127.0.0.1 wip3.adobe.com
 127.0.0.1 activate.wip3.adobe.com
@@ -131,14 +134,14 @@
 127.0.0.1 practivate.adobe.com
 127.0.0.1 activate.adobe.com
 
-#minitoolspartitionwizard
+# [Minitool]
 127.0.0.1 www.partitionwizard.com
 127.0.0.1 pas2.partitionwizard.com
 127.0.0.1 pas2.minitool.com
 127.0.0.1 pas2.eofsoft.com
 127.0.0.1 tracking.minitool.com
 
-#camtasia
+# [Camtasia]
 127.0.0.1 activation.cloud.techsmith.com
 127.0.0.1 oscount.techsmith.com
 127.0.0.1 updater.techsmith.com
@@ -147,18 +150,18 @@
 127.0.0.1 assets.cloud.techsmith.com
 127.0.0.1 www.techsmith.com
 
-#corel
+# [Corel]
 127.0.0.1 apps.corel.com
 127.0.0.1 mc.corel.com
 127.0.0.1 origin-mc.corel.com
 127.0.0.1 iws.corel.com
 
-#bandicam
+# [Bandicam]
 127.0.0.1 bandicam.com
 127.0.0.1 ssl.bandisoft.com
 127.0.0.1 cert.bandicam.com
 
-
+# ---------------------------------------------------
 
 # [reddit.com]
 151.101.1.140 reddit.com
@@ -796,4 +799,3 @@
 151.101.13.140 www.m.reddit.com
 151.101.13.140 h.reddit.com
 151.101.13.140 www.h.reddit.com
-
