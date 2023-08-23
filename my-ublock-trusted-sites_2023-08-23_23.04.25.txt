@@ -14,6 +14,7 @@ ads.id
 app.any.run
 appnee.com
 archive.org
+bgp.he.net
 billing.supercorridor.co.id
 blog.menjelajahi.com
 blogger.com
@@ -59,6 +60,7 @@ mnet.my.id
 my.biznet.id
 my.dewabiz.com
 myih.telkom.co.id
+new.clientzone.rumahweb.com
 pahe.ph
 perizinan.oss.go.id
 ping.eu
@@ -71,7 +73,6 @@ sg05.rapidwhm.com:2083
 shopee.co.id
 sociabuzz.com
 softgateon.herokuapp.com
-speedtest.net
 store.steampowered.com
 teksnologi.com
 tiktok.com
@@ -79,6 +80,7 @@ tokopedia.com
 torrentwal.com
 traveloka.com
 tutorial.siberuang.com
+tv.idlixprime.com
 twitch.tv
 twitter.com
 web.telegram.org
@@ -87,6 +89,7 @@ www.capcut.com
 www.facebook.com
 www.google.co.id
 www.masfadli.com
+www.rumahweb.com
 www.thewindowsclub.com
 zertalious.xyz
 zoom.us
